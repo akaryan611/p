@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ajna aoj ao ao uyerttiu
+=======
+ajna aoj ao ao  uigjyg
+>>>>>>> act2
